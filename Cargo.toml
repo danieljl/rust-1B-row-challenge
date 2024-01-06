@@ -1,0 +1,12 @@
+[package]
+name = "rs-1brc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bstr = "=1.6.0"
+memchr = "=2.5.0"
+crossbeam-channel = "0.5.10"
+fast-float = "0.2.0"
+ahash = "0.8.7"
+hashbrown = "0.14.3"
